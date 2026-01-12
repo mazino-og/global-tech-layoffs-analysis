@@ -93,3 +93,4 @@ intentionally framed as associations rather than causes.
 ---
 
 ## Repository Structure
+## Link to Tableau Dashboard (https://public.tableau.com/app/profile/mazino.onowakpokpo/viz/eda_layoffs_dashboard/Dashboard1?publish=yes)
